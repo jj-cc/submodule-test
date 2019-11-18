@@ -1,3 +1,0 @@
-[submodule "submodule-repository"]
-	path = subLibs
-	url = https://github.com/jj-cc/submodule-repository.git
